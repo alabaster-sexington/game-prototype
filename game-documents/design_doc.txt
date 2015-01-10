@@ -1,0 +1,95 @@
+“News Tycoon” (temp title)
+Design Document
+
+Gameplay Overview
+
+	Manage a news company, from its origins as a humble local paper all the way up to an empire with international reach capable of influencing the course of history.
+
+	Game presentation will consist of different screens through which the publication may be managed by the player, as well as controls to change the flow of time (pause/unpause, speed up/slow down).  Thus we can do a complete mockup without art assets, only buttons.
+
+Game Screens
+
+Human Resources
+
+Hire staff members (a few candidates randomly generated every month), then assign staff to lead the following 3 departments:
+	Investigative Journalism (finds interesting stories depending on skill, used to draw in new readers)
+	Opinion (writes opinion articles with persuasiveness depending on skill, used to influence opinions of the readership)
+	Editorial Department (improves publication quality depending on skill, used to improve overall publication reputation)
+
+Number of staff assignable to each department depends on the size and reach of the publication.
+	Local Reach: 1 staff member per department
+	National Reach: 2 staff members per department
+	International Reach: 4 staff members per department
+
+Political Slant
+
+	Set the political slant of the publication: select a point on a 2D scale with Conservative to Liberal on x axis, Libertarian to Authoritarian on y axis (can have 100 points on each axis).  Accompanying flavor text describing the chosen political viewpoint is displayed.
+ 	If the chosen political slant deviates too far from the average viewpoint of society (also shown on the axes), readership drops sharply.  Thus if the player wants to influence society to a different viewpoint they must do so slowly and incrementally.
+	Every 4 years in game time a congressional election is held, and the government in power may change according to the prevailing public viewpoint.  There are 500 seats in Congress, and they may be divided up between the following parties:
+	Liberal Party
+	Conservative Party
+	Communist Party
+	National Socialist Party (AKA Nazis)
+	Libertarian Party
+	Green Party
+	If either the Communist or National Socialist parties gain a majority, press freedom is severely restricted and you the political slant of the publication is restricted to full Authoritarian Liberal or Authoritarian Conservative (respectively).  Very rare (every few years) random events will appear which may topple the government and restore the public political slant to center, with or without the player's intervention.  If the publication has achieved International Reach, the player may veto these events as they are effectively in full control of society.
+	If the Libertarian Party gains a majority, then society descends into anarchy (the sound of someone shouting 'ANARCHY!!!' can be heard over a loudspeaker and it sounds like riots are continuously going on outside publication HQ) and the consequences and mechanics are similar to communism or facism, except the Libertarian/Authoritarian political slant is restricted to full Libertarian (Conservative/Liberal slant can still be freely changed).
+	As a result of random events, society may occasionally go to war with an outside society.  During wartime, press freedom is restricted and the political slant of the publication is locked to the average viewpoint of society.
+
+Note that the political system in the game is not designed to condone or condemn any particular political system or ideology.  The idea is for the player to take their own biases into the game and make the society that they want.  If they want to transform a moderate democracy into a Stalinist dictatorship, that's their choice.
+
+Financial Summary
+
+	Screen for managing the finances of the company.  
+	The player starts with $1M, and gains money based on the size of the readership and any additional bonuses from random events (licensing deals, etc.).  The player can set the level of advertising (increasing it increases the revenue per reader but decreases publication reputation).
+	Money is lost through staff wages, running costs, and some random events.  Running costs include building rent, printing costs, taxes and regulatory fees (which change with the government system).  Running costs increase significantly when expanding the company from Local to National to International.
+
+Publication History
+
+Screen which displays a list of choices the player has made, as well as certain stats about the publication (estimated readership, total staff).  Also shows the score (ie. the net worth of the news corporation).  Also contains a randomly selected quote from a member of the public showing their opinion of the publication.
+
+
+Mechanics
+
+Staff
+
+Staff have various stats (randomly assigned):
+	Luck: Triggers some rare random events with positive outcomes for the paper and gives additional choices to come regular random events.  The benefits of this stat are few and far between, making it an unlikely choice for players who are min-maxing to get the most profitable or influential publication, however some achievements and 'secret' story paths are only accessible with high enough luck in a given department, so role-players will look for the rare employees with high luck.
+	Truth:  increases effectiveness of work in the editorial department.
+	Creativity: increases effectiveness of work in investigative journalism and opinion.
+	Speech: increases effectiveness of work in opinion.  Increases rate and effectiveness of random events related to investigative journalism.
+
+Stats slowly increase over time for staff members based on where they work.  Editorial Department staff increase Truth slowly, Investigative Journalism staff increase Creativity slowly, and Opinion staff increase both Creativity and Speech very slowly.  Luck is static.
+
+Additionally, staff members may have 1 (9% probability) or 2 (1% probability) 'perks' which give a specific passive bonus.
+
+Staff are paid a biweekly salary depending on the sum of their total skills (strength counts).
+
+Staff have randomly generated names (from a list), as well as a job description based on their total skill level (strength doesn't count).
+In a fascist society, a larger proportion of the names of candidates become German.  In a communist society, Russian.  In a libertarian society, Texan.
+
+Random Events
+
+Every few weeks of in game time, a random event will appear that may require the player to make a decision.  These events form the bulk of the gameplay, and there should be hundreds of them.  Which events appear may depend on the player's response to previous events.  Events may be arranged into chains (a response to a particular event triggers another event down the line).
+
+Reputation
+
+Reputation is a linear scale representing public opinion of the publication (not just the opinion of readership).  It functions like the luck stat in RPGs, giving a relatively small effect to various actions including: readership growth, random event generation rate (some options in random events may also be disabled if reputation is low or not high enough), and political persuasiveness of the publication.  Also, this affects the success rate of hiring new candidates – based on the skill of the candidate relative to the reputation of the publication, a candidate may reject a job offer.
+
+Game Over
+
+Though very rare, it should be possible to trigger a game over by taking actions that would lead to the company being shut down.  Examples:
+	Running out of money (treasury goes below $0).
+	Attempting to and failing to topple the government when society is Nazi, communist, or at war.
+
+Achievements
+
+Since there is no 'win' condition in the game, achievements are used to give the player a sense of accomplishment and to help players set goals.  Example achievements could include:
+
+Extend the reach of your publication to cover the entire country.
+Extend the reach of your publication to cover the entire world.
+Use your management skills to obtain a company net worth of $100 billion.
+Use your influence on society to maintain peace on Earth for 20 years straight.
+Use your influence to keep society at war for 20 years straight.
+Use your influence on society to bring about the Fourth Reich.
+Use your influence on society to revive the USSR.
