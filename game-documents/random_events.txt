@@ -1,1 +1,10 @@
 RANDOM EVENT IDEAS
+
+Hire Specialist (weather presenter, sportscaster, etc.)
+Choices: Hire/Don't Hire
+If hire: fixed cost over fixed period of time, fixed influence gain over fixed period of time.
+
+Foreign Conflict Reporting
+Your goverment is supplying arms to one side in a foreigh conflict.
+Choices: Report favourably on goverment side of conflict/inversigate govt spending or report POV of other side
+Consequence: Instant (small) shift to authoritarian or libertarian for society (not publication)
