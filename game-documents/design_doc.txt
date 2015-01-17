@@ -5,7 +5,7 @@ Gameplay Overview
 
 	Manage a news company, from its origins as a humble local paper all the way up to an empire with international reach capable of influencing the course of history.
 
-	Game presentation will consist of different screens through which the publication may be managed by the player, as well as controls to change the flow of time (pause/unpause, speed up/slow down).  Thus we can do a complete mockup without art assets, only buttons.
+	Game presentation will consist of different screens through which the publication may be managed by the player, as well as a turn control to advance time (game is played in one month 'turns').  Thus we can do a complete mockup without art assets, only buttons.
 
 Game Screens
 
@@ -70,7 +70,7 @@ In a fascist society, a larger proportion of the names of candidates become Germ
 
 Random Events
 
-Every few weeks of in game time, a random event will appear that may require the player to make a decision.  These events form the bulk of the gameplay, and there should be hundreds of them.  Which events appear may depend on the player's response to previous events.  Events may be arranged into chains (a response to a particular event triggers another event down the line).
+At the beginning of a turn a random event may appear that may require the player to make a decision.  These events form the bulk of the gameplay, and there should be hundreds of them.  Which events appear may depend on the player's response to previous events.  Events may be arranged into chains (a response to a particular event triggers another event down the line).  Multiple events in a chain may occur in a single turn to simulate a 'breaking' news story.
 
 Reputation
 
