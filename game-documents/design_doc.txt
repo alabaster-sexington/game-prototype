@@ -72,6 +72,8 @@ Random Events
 
 At the beginning of a turn a random event may appear that may require the player to make a decision.  These events form the bulk of the gameplay, and there should be hundreds of them.  Which events appear may depend on the player's response to previous events.  Events may be arranged into chains (a response to a particular event triggers another event down the line).  Multiple events in a chain may occur in a single turn to simulate a 'breaking' news story.
 
+Events that affect the player negatively should also be accomanied by a small permanent passive bonus (perhaps a perk or assigned to a staff member or a buff to their luck stat) that can only be obtained through the event.
+
 Reputation
 
 Reputation is a linear scale representing public opinion of the publication (not just the opinion of readership).  It functions like the luck stat in RPGs, giving a relatively small effect to various actions including: readership growth, random event generation rate (some options in random events may also be disabled if reputation is low or not high enough), and political persuasiveness of the publication.  Also, this affects the success rate of hiring new candidates – based on the skill of the candidate relative to the reputation of the publication, a candidate may reject a job offer.

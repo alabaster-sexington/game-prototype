@@ -9,6 +9,11 @@ Your goverment is supplying arms to one side in a foreign conflict.
 Choices: Report favourably on goverment side of conflict/inversigate govt spending or report POV of other side
 Consequence: Instant (small) shift to authoritarian or libertarian for society (not publication)
 
+Hire Security
+If society is sufficiently authoritarian/libertarian, this event may trigger.
+Hire: costs some fixed amount over a fixed period of time
+Don't Hire: There is some low probability (higher with higher libertarian/authoritarian) that the news HQ is raided by outlaws in a subsequent event, causing you to lose half of your money and be downgraded one level of reach (international -> national, etc.) since HQ is destroyed.
+
 Sensationalization/Clickbait
 Frequency: appears once per game
 If you wish, you can begin to sensationalize news headlines, which in turn unlocks more sensational news events.  Required for MechaHitler, etc.
