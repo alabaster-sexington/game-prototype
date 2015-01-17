@@ -8,66 +8,33 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
    width="1280"
    height="720"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ui_mockup.svg">
+   id="svg2">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient3949">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3951" />
+         id="stop3951"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="1"
-         id="stop3953" />
+         id="stop3953"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3949"
-       id="linearGradient3963"
        x1="1179.5"
        y1="1007.3622"
        x2="1260"
        y2="1007.3622"
+       id="linearGradient3963"
+       xlink:href="#linearGradient3949"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(6.0609153,0)" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="796.7938"
-     inkscape:cy="363.95028"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1317"
-     inkscape:window-height="744"
-     inkscape:window-x="49"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2987"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -76,216 +43,208 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-332.36218)">
+     transform="translate(0,-332.36218)"
+     id="layer1">
     <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="841.45709"
        y="564.94159"
+       transform="translate(0,332.36218)"
        id="text3802"
-       sodipodi:linespacing="125%"
-       transform="translate(0,332.36218)"><tspan
-         sodipodi:role="line"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="841.45709"
+         y="564.94159"
          id="tspan3804" /></text>
     <g
        id="g4060">
       <rect
-         transform="translate(0,332.36218)"
-         y="600"
-         x="0"
-         height="120"
          width="640"
+         height="120"
+         x="0"
+         y="600"
+         transform="translate(0,332.36218)"
          id="rect3788"
          style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
       <rect
-         style="fill:#776f13;fill-opacity:0.51851849;stroke:none"
-         id="rect3925"
          width="290"
          height="80"
          x="20"
-         y="952.36218" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3790"
-         y="1002.3622"
-         x="165"
-         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-           y="1002.3622"
-           x="165"
-           id="tspan3792"
-           sodipodi:role="line">Newsroom Staff</tspan></text>
-      <rect
          y="952.36218"
-         x="330"
-         height="80.714218"
+         id="rect3925"
+         style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
+      <text
+         x="165"
+         y="1002.3622"
+         id="text3790"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="165"
+           y="1002.3622"
+           id="tspan3792"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">Newsroom Staff</tspan></text>
+      <rect
          width="290.71429"
+         height="80.714218"
+         x="330"
+         y="952.36218"
          id="rect3927"
          style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
       <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="475"
          y="1002.3622"
          id="text3794"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3796"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
            x="475"
            y="1002.3622"
+           id="tspan3796"
            style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">Political Slant</tspan></text>
     </g>
     <rect
-       y="332.36218"
-       x="0"
-       height="59.999996"
        width="270"
+       height="59.999996"
+       x="0"
+       y="332.36218"
        id="rect3810"
        style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
     <rect
-       style="fill:#776f13;fill-opacity:0.51851849;stroke:none"
-       id="rect3823"
        width="250"
        height="39.999996"
        x="10"
-       y="342.36218" />
+       y="342.36218"
+       id="rect3823"
+       style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
     <flowRoot
-       xml:space="preserve"
+       transform="translate(-204.65625,391.67899)"
        id="flowRoot3900"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-204.65625,391.67899)"><flowRegion
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3902"><rect
-           id="rect3904"
            width="285.35715"
            height="46.07143"
            x="229.64285"
-           y="-56.07143" /></flowRegion><flowPara
+           y="-56.07143"
+           id="rect3904" /></flowRegion><flowPara
          id="flowPara3906"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">$ 1.854 M</flowPara></flowRoot>    <g
        id="g4069">
       <rect
-         y="332.36218"
-         x="1140"
-         height="60.000301"
          width="139.99986"
+         height="60.000301"
+         x="1140"
+         y="332.36218"
          id="rect3908"
          style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
       <rect
-         ry="0"
-         style="fill:#776f13;fill-opacity:0.51851849;stroke:none"
-         id="rect3918"
          width="120.00013"
          height="40.000008"
+         ry="0"
          x="1150"
-         y="342.36218" />
+         y="342.36218"
+         id="rect3918"
+         style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
       <flowRoot
-         xml:space="preserve"
+         transform="translate(933.34375,393.22517)"
          id="flowRoot3910"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="translate(933.34375,393.22517)"><flowRegion
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
            id="flowRegion3912"><rect
-             id="rect3914"
              width="110.0134"
              height="48.208439"
              x="229.64285"
-             y="-56.07143" /></flowRegion><flowPara
+             y="-56.07143"
+             id="rect3914" /></flowRegion><flowPara
            id="flowPara3916"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">MENU</flowPara></flowRoot>    </g>
     <rect
-       y="822.36218"
-       x="1120"
-       height="230.00012"
        width="159.99939"
+       height="230.00012"
+       x="1120"
+       y="822.36218"
        id="rect3933"
        style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
     <rect
-       style="fill:#776f13;fill-opacity:0.51851849;stroke:none"
-       id="rect3938"
        width="140"
        height="140"
        x="1130"
-       y="902.36218" />
+       y="902.36218"
+       id="rect3938"
+       style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
     <flowRoot
-       xml:space="preserve"
+       transform="translate(-10.234375,324.58151)"
        id="flowRoot3940"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-10.234375,324.58151)"><flowRegion
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3942"><rect
-           id="rect3944"
            width="138.51709"
            height="48.654583"
            x="1140.9673"
-           y="579.58881" /></flowRegion><flowPara
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara3952">Year 1</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
+           y="579.58881"
+           id="rect3944" /></flowRegion><flowPara
+         id="flowPara3952"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">Year 1</flowPara></flowRoot>    <flowRoot
+       transform="translate(128.21875,501.4333)"
        id="flowRoot3960"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold"
-       transform="translate(128.21875,501.4333)"><flowRegion
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold"><flowRegion
          id="flowRegion3962"><rect
-           id="rect3964"
            width="156.42859"
            height="39.285706"
            x="993.57141"
            y="450.71429"
+           id="rect3964"
            style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold" /></flowRegion><flowPara
          id="flowPara3966">September</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
+       transform="translate(-172.84375,385.8907)"
        id="flowRoot3968"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-172.84375,385.8907)"><flowRegion
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3970"><rect
-           id="rect3972"
            width="287.14282"
            height="181.42859"
            x="1472.8572"
-           y="538.57141" /></flowRegion><flowPara
+           y="538.57141"
+           id="rect3972" /></flowRegion><flowPara
          id="flowPara3974"
          style="font-size:28px">Clicking advances to the next turn (month).</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
+       transform="translate(-231.4375,455.8907)"
        id="flowRoot3976"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-231.4375,455.8907)"><flowRegion
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3978"><rect
-           id="rect3980"
            width="268.57141"
            height="121.42857"
            x="231.42857"
-           y="-241.42857" /></flowRegion><flowPara
+           y="-241.42857"
+           id="rect3980" /></flowRegion><flowPara
          id="flowPara3982"
          style="font-size:28px">Clicking brings player to the financial summary screen</flowPara></flowRoot>    <path
-       style="fill:url(#linearGradient3963);fill-opacity:1;stroke:none"
        d="m 1185,997.36218 0,20.00002 40,-10 z"
        id="path3157"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       style="fill:url(#linearGradient3963);fill-opacity:1;stroke:none" />
     <rect
-       y="832.36218"
-       x="1130"
-       height="60.000004"
        width="140"
+       height="60.000004"
+       x="1130"
+       y="832.36218"
        id="rect3930"
        style="fill:#776f13;fill-opacity:0.51851849;stroke:none" />
     <flowRoot
        transform="translate(128.21875,398.4333)"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold"
        id="flowRoot3941"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold"><flowRegion
          id="flowRegion3943"><rect
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold"
-           y="450.71429"
-           x="993.57141"
-           height="39.285706"
            width="156.42859"
-           id="rect3945" /></flowRegion><flowPara
+           height="39.285706"
+           x="993.57141"
+           y="450.71429"
+           id="rect3945"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono Bold" /></flowRegion><flowPara
          id="flowPara3947">HISTORY</flowPara></flowRoot>  </g>
 </svg>
