@@ -1,5 +1,11 @@
 RANDOM EVENT IDEAS
 
+Economic Downturn
+Player is warned 3-6 months in advance.  Effective over 1-3 year period.  Income decreases 25-50%, publication influence over society increases slightly (more desperate times).
+
+Economic Upturn
+Effective over 1-3 year period.  Income increases 25-50%, publication influence over society decreases slightly.
+
 Hire Specialist (weather presenter, sportscaster, etc.)
 Choices: Hire/Don't Hire
 If hire: fixed cost over fixed period of time, fixed influence gain over fixed period of time.
