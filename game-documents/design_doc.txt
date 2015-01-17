@@ -80,7 +80,7 @@ Reputation is a linear scale representing public opinion of the publication (not
 
 Game Over
 
-Though very rare, it should be possible to trigger a game over by taking actions that would lead to the company being shut down.  Examples:
+Though very rare, it should be possible to trigger a game over by taking actions that would lead to the company being shut down.  Should give an acheivement.  Examples:
 	Running out of money (treasury goes below $0).
 	Attempting to and failing to topple the government when society is Nazi, communist, or at war.
 
