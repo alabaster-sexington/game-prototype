@@ -1,8 +1,0 @@
-Algorithms
-
-
-Random Event Scheduler
-
-Every turn, the scheduler first looks over all random events and selects those which are possible (all preconditions met).  Out of those events, the probability is evaluated for each event (fixed number for most events, but can be modified based on outcomes of other events or increase/decrease with time).  A random number is rolled with respect to the probability of a given event to determine whether it is displayed that turn.  Multiple events may be displayed per turn in this manner.
-
-Often (not always) after an event is seen, the precondition is set to be always false (or false for a given number of turns after) so it cannot be seen again.
